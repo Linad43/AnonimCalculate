@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnonimCalculator</string>
+    <string name="sum">+</string>
+    <string name="diff">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="result">Результат</string>
+    <string name="changeActivity">Скрытый калькулятор</string>
+</resources>
